@@ -8,7 +8,6 @@
 - Menambahkan method 'sayHello()' pada HomeController
   =Menambahkan pengujian untuk method 'sayHello()'
 
-
 ## Syntax
 
 ### Melakukan Instal Ulang Kebutuhan Paket
@@ -26,3 +25,13 @@ URL: http://localhost:8080
 command: `./mvnw test jacoco:report`
 
 command-check: `./mvnw clean test jacoco:check`
+
+Tambahakan kode-kode program tersebut ke HomeController dengan nama method berikut:
+
+Informasi NIM: informasiNim(nim)
+
+Perolehan Nilai: perolehanNilai(strBase64)
+
+Perbedaan L dan Kebalikannya: perbedaanL(strBase64)
+
+Paling Ter: palingTer(strBase64)
