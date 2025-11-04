@@ -69,6 +69,7 @@ public class HomeControllerTest {
     void testPerolehanNilai_InvalidBase64() {
         assertThrows(IllegalArgumentException.class, () -> controller.perolehanNilai("!@#"));
     }
+    
 
     // 3. Tes untuk perbedaanL
     @Test
