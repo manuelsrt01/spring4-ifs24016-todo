@@ -33,3 +33,4 @@ Informasi NIM: informasiNim(nim)
 Perolehan Nilai: perolehanNilai(strBase64)
 Perbedaan L dan Kebalikannya: perbedaanL(strBase64)
 Paling Ter: palingTer(strBase64)
+//ba
